@@ -1,0 +1,6 @@
+@Zavora.Api_HostAddress = http://localhost:5198
+
+GET {{Zavora.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
